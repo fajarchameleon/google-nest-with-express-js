@@ -12,6 +12,6 @@ How to running
 
 
 Note:
-ip = your google nest ip address
-text = text for google
+1. ip = your google nest ip address
+2. text = text for google nest
 
